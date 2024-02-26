@@ -1,0 +1,7 @@
+pydantic~=2.3.0
+redis~=5.0.0
+numpy~=1.25.2
+requests~=2.31.0
+psycopg2~=2.9.9
+click~=8.1.7
+opencv-contrib-python~=4.6.0.66
